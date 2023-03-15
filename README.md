@@ -1,4 +1,4 @@
-App TURIS uses PWA and materialize framework. Web can be opened with web server.
+App TURIS uses PWA and materialize framework. 
 
 Some components:
   - Service Worker
